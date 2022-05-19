@@ -101,3 +101,5 @@ Pull Request - это по-сути просьба другому разрабо
 
 - [Шаблон Go по Чистой Архитектуре, 1.8k ⭐️](https://github.com/evrone/go-clean-template)
 - [Шаблон Go по Чистой Архитектуре, 5.9k ⭐️](https://github.com/bxcodec/go-clean-arch)
+- [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
+- [Atlasian, GitFlow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
